@@ -3,11 +3,11 @@
 <plist version="1.0">
 <dict>
 	<key>author</key>
-	<string>Rulin Zhao</string>
+	<string>linking2014</string>
 	<key>comment</key>
-	<string>Based on the Quiet Light theme.</string>
+	<string>A light, neat and vivild color theme for VScode, inspired by the Eiffel TextMate Theme.</string>
 	<key>name</key>
-	<string>One Light X</string>
+	<string>EVO Theme</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -28,8 +28,6 @@
 
 				<key>lineHighlight</key>
 				<string>#E0E2EF</string>
-				<!--<key>rangeHighlight</key>-->
-				<!--<string>#E4E4FF</string>-->
 				<key>rangeHighlight</key>
 				<string>#D6EBCC</string>
 
@@ -297,7 +295,6 @@
 		</dict>
 
 		<dict>
-		<!--标点-->
 			<key>name</key>
 			<string>Punctuation</string>
 			<key>scope</key>
@@ -309,7 +306,6 @@
 			</dict>
 		</dict>
 		<dict>
-		<!--标点 引号-->
 			<key>name</key>
 			<string>Punctuation: Quoted</string>
 			<key>scope</key>
@@ -322,7 +318,6 @@
 		</dict>
 		
 		<dict>
-		<!--字符串-->
 			<key>name</key>
 			<string>Strings</string>
 			<key>scope</key>
@@ -442,7 +437,6 @@
 			</dict>
 		</dict>
 		<dict>
-		<!--HTML 属性 等号-->
 			<key>name</key>
 			<string>HTML: Attribute Equal</string>
 			<key>scope</key>
@@ -457,7 +451,6 @@
 		</dict>
 
 		<dict>
-		<!--JADE 选择器-->
 			<key>name</key>
 			<string>JADE: Selectors</string>
 			<key>scope</key>
@@ -472,7 +465,6 @@
 		</dict>
 
 		<dict>
-		<!--XML 属性 等号-->
 			<key>name</key>
 			<string>XML: Attribute Equal</string>
 			<key>scope</key>
@@ -487,7 +479,6 @@
 		</dict>
 
 		<dict>
-		<!--XML 属性 声明-->
 			<key>name</key>
 			<string>XML: Attribute Equal</string>
 			<key>scope</key>
@@ -566,7 +557,6 @@
 		</dict>
 
 		<dict>
-		<!--CSS 属性 前缀-->
 			<key>name</key>
 			<string>CSS: Attribute Prefix</string>
 			<key>scope</key>
@@ -581,7 +571,6 @@
 		</dict>
 
 		<dict>
-		<!--CSS 标点 选择器-->
 			<key>name</key>
 			<string>CSS: Punctuation Selectors</string>
 			<key>scope</key>
@@ -594,7 +583,6 @@
 		</dict>
 
 		<dict>
-		<!--CSS 字符串 引号-->
 			<key>name</key>
 			<string>CSS: Punctuation Selectors</string>
 			<key>scope</key>
@@ -607,7 +595,6 @@
 		</dict>
 
 		<dict>
-		<!--SCSS 选择器-->
 			<key>name</key>
 			<string>CSS: Selectors</string>
 			<key>scope</key>
@@ -627,7 +614,6 @@
 		</dict>
 
 		<dict>
-		<!--JS 简单类型-->
 			<key>name</key>
 			<string>JS: Basic</string>
 			<key>scope</key>
@@ -640,7 +626,6 @@
 		</dict>
 
 		<dict>
-		<!--JS 简单类型 无值-->
 			<key>name</key>
 			<string>JS: Basic No Value</string>
 			<key>scope</key>
@@ -655,7 +640,6 @@
 		</dict>
 
 		<dict>
-		<!--JS 字符串-->
 			<key>name</key>
 			<string>JS: Strings</string>
 			<key>scope</key>
@@ -668,7 +652,6 @@
 		</dict>
 		
 		<dict>
-		<!--JS 字符串 引号-->
 			<key>name</key>
 			<string>JS: Strings Quoted</string>
 			<key>scope</key>
@@ -681,7 +664,6 @@
 		</dict>
 
 		<dict>
-		<!--JS 对象 键-->
 			<key>name</key>
 			<string>JS: Object Key</string>
 			<key>scope</key>
@@ -694,7 +676,6 @@
 		</dict>
 
 		<dict>
-		<!--JS 关键字-->
 			<key>name</key>
 			<string>JS: Keywords</string>
 			<key>scope</key>
@@ -714,7 +695,6 @@
 		</dict>
 
 		<dict>
-		<!--Markdown 标识符-->
 			<key>name</key>
 			<string>Markdown: Punctuation</string>
 			<key>scope</key>
@@ -727,7 +707,6 @@
 		</dict>
 
 		<dict>
-		<!--Markdown 标识符 粗体-->
 			<key>name</key>
 			<string>Markdown: Punctuation Bold</string>
 			<key>scope</key>
@@ -740,7 +719,6 @@
 		</dict>
 
 		<dict>
-		<!--Markdown 链接-->
 			<key>name</key>
 			<string>Markdown: Link</string>
 			<key>scope</key>
