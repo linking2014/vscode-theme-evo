@@ -1,9 +1,9 @@
 {
     "name": "evo-theme",
     "displayName": "EVO Theme",
-    "description": "A light, neat and vivild color theme for VScode, inspired by the Eiffel TextMate Theme.",
-    "version": "0.0.1",
-    "publisher": "linking2014",
+    "description": "A light, neat and vivild color theme for VScode.",
+    "version": "1.0.0",
+    "publisher": "linking",
     "author": "linking2014 <linking2014@163.com> (http://zhaorulin.com)",
     "license": "MIT",
     "homepage": "https://github.com/linking2014/vscode-theme-evo",
@@ -32,9 +32,7 @@
         "color": "#CED5E8",
         "theme": "light"
     },
-    "badges": [
-
-	],
+    "badges": [],
     "contributes": {
         "themes": [
             {
