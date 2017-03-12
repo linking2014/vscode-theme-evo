@@ -1,6 +1,7 @@
-# Change Log
-
-<!--Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.-->
+# EVO Theme
 
 ## [Unreleased]
-- Initial release
+add more language support
+
+## [1.0.0] - 2017-03-12
+publish to VS Code Extension Marketplace
