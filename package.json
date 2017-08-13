@@ -2,7 +2,7 @@
     "name": "evo-theme",
     "displayName": "EVO Theme",
     "description": "A light, neat and vivild color theme for VScode.",
-    "version": "1.0.1",
+    "version": "1.1.0",
     "publisher": "linking",
     "author": "linking2014 <linking2014@163.com> (http://zhaorulin.com)",
     "license": "MIT",
@@ -16,7 +16,7 @@
     },
     "icon": "resource/icon.png",
     "engines": {
-        "vscode": "^1.10.0"
+        "vscode": "^1.15.0"
     },
     "categories": [
         "Themes"
@@ -38,7 +38,7 @@
             {
                 "label": "EVO",
                 "uiTheme": "vs",
-                "path": "./themes/evo.tmTheme"
+                "path": "./themes/evo.json"
             }
         ]
     }
