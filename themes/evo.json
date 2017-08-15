@@ -30,6 +30,7 @@
 		"editorGroupHeader.tabsBackground": "#e9ecee",
 		"statusBar.foreground": "#51575e",
 		"statusBar.background": "#dce0e4",
+		"statusBar.noFolderBackground": "#dce0e4",
 		"activityBar.background": "#dce0e4",
 		"activityBar.foreground": "#51575e",
 		"sideBar.background": "#e9ecee",
